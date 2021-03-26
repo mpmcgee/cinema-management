@@ -1,5 +1,8 @@
 # Cinema Management Software
 
+##Purpose
+The main purpose of this project was to sharpen Java fundamentals with 2D arrays and exception handling with a completed product in a question of hours.
+
 ## Overview
 This program allows the user to set dimensions of a cinema, display seats, make reservations, and print sales statistics.
 
