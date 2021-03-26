@@ -1,6 +1,6 @@
 # Cinema Management Software
 
-##Purpose
+## Purpose
 The main purpose of this project was to sharpen Java fundamentals with 2D arrays and exception handling with a completed product in a question of hours.
 
 ## Overview
